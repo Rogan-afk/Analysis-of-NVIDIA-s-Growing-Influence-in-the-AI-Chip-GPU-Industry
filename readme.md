@@ -1,9 +1,35 @@
-This study delves into the ascent of NVIDIA to its current position, where it monopolizes the discrete
-GPU market. What factors have contributed to NVIDIA’s tremendous success? Additional questions
-explored include:
-• Is there a correlation between bitcoin values (from 2016 to 2022) and NVIDIA’s graphics share
-prices during that time period? Conclusions drawn from this correlation will be discussed.
-• Comparison of stock prices for AMD and NVIDIA. How did NVIDIA outscale its rival, AMD?
-AI growth accelerated from 2019 to 2023, coinciding with NVIDIA’s sales growth.
-• Prediction analysis of NVIDIA’s most popular graphics card in the midrange price segment of
-the next-gen graphics cards (RTX 50XX series and RTX 60XX series).
+# Analysis of NVIDIA’s Growing Influence in the AI Chip (GPU) Industry
+
+This study examines the ascent of **NVIDIA** to its current position, where it dominates the discrete GPU market.  
+The analysis investigates the factors that contributed to NVIDIA’s tremendous success and explores several key questions.
+
+---
+
+## Questions
+
+- **Market Correlation:**  
+  Is there a correlation between Bitcoin values (2016–2022) and NVIDIA’s share prices during that period?  
+  → Conclusions drawn from this correlation are discussed in detail.
+
+- **Competitor Comparison:**  
+  How do AMD and NVIDIA stock prices compare? What allowed NVIDIA to outscale its rival, AMD?
+
+- **AI Growth & Market Impact:**  
+  Did the surge in AI adoption (2019–2023) coincide with NVIDIA’s rapid sales growth?
+
+---
+
+## Tools & Methods
+
+- **Data Analysis:** Pandas, Data Cleaning, EDA  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn  
+- **Forecasting:** Time Series Models & Regression Analysis
+
+---
+
+Find the key Article in this repository (PDF file).
+
+## Key Takeaway
+
+NVIDIA’s growth is not just a product of superior hardware but also **timely alignment with market shifts**—AI acceleration, cryptocurrency mining, and strategic product positioning—all reinforcing its dominant role in the GPU industry.
